@@ -1,1 +1,1 @@
-console.log("test and running");
+console.log("up and running");
